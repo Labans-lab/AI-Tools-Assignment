@@ -118,7 +118,8 @@ This project promotes fairness by using open, diverse datasets and interpretable
 
 **Presentation Video**
 
- Click here to watch the 3-minute presentation
+ **Click here:** https://drive.google.com/file/d/1uKczQirhqxgZuvFPHHt6isqkzGEs87dd/view?usp=sharing
+ 
 
 (Replace with your YouTube/Drive/Community link once uploaded)
 
