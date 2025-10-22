@@ -78,7 +78,7 @@ Optimizer: Adam
 
 Results:
 
-Test Accuracy: 98.7%
+Test Accuracy: 98.98%
 
 
 **Visualization:**
