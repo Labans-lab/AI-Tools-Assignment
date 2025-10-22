@@ -122,21 +122,3 @@ This project promotes fairness by using open, diverse datasets and interpretable
 
 (Replace with your YouTube/Drive/Community link once uploaded)
 
-**Repository Contents**
-
-File	Description
-Task1_Iris_Classification.ipynb	Classical ML using Decision Tree
-Task2_MNIST_CNN_TensorFlow.ipynb	CNN Model for MNIST
-Task3_NLP_spaCy.ipynb	Named Entity & Sentiment Analysis
-README.md	Full report and presentation
-🏁 Conclusion
-
-Through this project, we demonstrated:
-
-Mastery of classical and deep learning workflows
-
-Real-world NLP application using spaCy
-
-Awareness of ethics in AI systems
-
-"AI is not just about intelligence — it’s about responsibility." 🤖🌿
