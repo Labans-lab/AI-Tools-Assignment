@@ -58,7 +58,9 @@ Recall: 94%
 
 
 Sample Visualization:
-(insert screenshot or link to image)
+
+<img width="1763" height="531" alt="Screenshot 2025-10-22 125038" src="https://github.com/user-attachments/assets/c2185b51-073b-441f-a7b8-48b143d2041d" />
+
 
 🧠 Task 2 – Deep Learning with TensorFlow
 
@@ -79,7 +81,8 @@ Test Accuracy: 98.7%
 
 
 Visualization:
-(insert 5 sample predictions — e.g., predicted vs. actual)
+<img width="1259" height="636" alt="Screenshot 2025-10-22 125050" src="https://github.com/user-attachments/assets/a0e28be7-f5de-4610-a935-865d8d52c280" />
+
 
 💬 Task 3 – NLP with spaCy
 
@@ -93,6 +96,8 @@ Used spacy.load("en_core_web_sm") for NER.
 Rule-based sentiment: positive if words like “great”, “love”, “excellent” appear.
 
 Example Output:
+<img width="831" height="356" alt="Screenshot 2025-10-22 125102" src="https://github.com/user-attachments/assets/3cec0fb2-78de-41c9-a435-10fa84d2e661" />
+
 
 Text: "I love my new Samsung phone!"
 Entities: [("Samsung", "ORG")]
